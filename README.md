@@ -27,17 +27,6 @@ Foi implementado um hash propositalmente simples, baseado apenas nas dimensões 
 
 Esse tipo de hash não é seguro e permite colisões facilmente.
 
-## Estrutura do Projeto
-hash-collision/
-├── images/
-│ ├── aviao.jpeg
-│ └── navio.jpeg
-├── src/
-│ └── colisao.py
-├── README.md
-└── requirements.txt
-
-
 ---
 
 ## ⚙️ Instalação
